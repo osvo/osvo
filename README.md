@@ -9,7 +9,7 @@
        src="https://raw.githubusercontent.com/osvo/osvo/github-breakout/images/breakout-light.svg" />
 </picture>
 
-Welcome to my corner of GitHub. I'm a passionate mathematician, currently pursuing my Master of Science at the **National University of Colombia**. My goal is to connect abstract theory with practical solutions for engineering and scientific problems.
+Welcome to my corner of GitHub. I'm currently pursuing my Master of Science at the **National University of Colombia**. My goal is to connect abstract theory with practical solutions for engineering and scientific problems.
 
 ---
 
