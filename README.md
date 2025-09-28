@@ -16,7 +16,7 @@ Welcome to my corner of GitHub. I'm currently pursuing my Master of Science at t
 ### 👨‍💻 About Me
 
 - 🎓 **MSc student in Applied Mathematics** at the National University of Colombia.
-- 👨‍🏫 **Professor**, focused on making complex concepts clear and accessible.
+- 👨‍🏫 **Teacher**, focused on making complex concepts clear and accessible.
 - 🔬 **Researcher** in **Structural Reliability**, **Surrogate Models**, and **Machine Learning**. I enjoy applying ML techniques to solve complex engineering challenges.
 
 ### 🚀 My Research Focus
