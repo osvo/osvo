@@ -1,4 +1,4 @@
-## Hi, I'm Juan Camilo 👋
+## Hi, I'm Juan Camilo
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -13,13 +13,13 @@ Welcome to my corner of GitHub. I'm currently pursuing my Master of Science at t
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **MSc student in Applied Mathematics** at the National University of Colombia.
-- 👨‍🏫 **Teacher**, focused on making complex concepts clear and accessible.
-- 🔬 **Researcher** in **Structural Reliability**, **Surrogate Models**, and **Machine Learning**. I enjoy applying ML techniques to solve complex engineering challenges.
+- **MSc student in Applied Mathematics** at the National University of Colombia.
+- **Teacher**, focused on making complex concepts clear and accessible.
+- **Researcher** in **Structural Reliability**, **Surrogate Models**, and **Machine Learning**. I enjoy applying ML techniques to solve complex engineering challenges.
 
-### 🚀 My Research Focus
+### My Research Focus
 
 My research centers on how we can predict and ensure the reliability of structural systems using efficient mathematical models. My main interests are:
 - **Structural and Systems Reliability**
@@ -27,7 +27,7 @@ My research centers on how we can predict and ensure the reliability of structur
 - **Applied Machine Learning**
 - **Applied Linear Algebra** and its computational implications.
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 In my daily work, I mainly use:
 
