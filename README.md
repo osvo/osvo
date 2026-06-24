@@ -9,7 +9,7 @@
 
 ### About Me
 
-- MSc student in Applied Mathematics at the National University of Colombia.
+- M. Sc. in Applied Mathematics at the National University of Colombia.
 - Civil engineer.
 - Teacher focused on making complex concepts clear and accessible.
 
